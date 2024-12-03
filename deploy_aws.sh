@@ -4,7 +4,7 @@ sudo apt-get update && sudo apt-get upgrade -y
 sudo apt-get install -y python3-pip python3-venv nginx git
 
 # Clone and setup application
-git clone https://github.com/rakiso/varmepumpe_kontroll.git
+git clone https://github.com/rakiso/varmepumpe_sensibo.git
 cd varmepumpe_kontroll
 
 # Setup Python environment
